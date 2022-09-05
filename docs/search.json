@@ -6,14 +6,14 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-09-05T17:59:34-04:00"
+      "last_modified": "2022-09-05T18:35:32-04:00"
     },
     {
       "path": "index.html",
       "title": "Brad's Blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-09-05T17:59:36-04:00"
+      "last_modified": "2022-09-05T18:35:34-04:00"
     }
   ],
   "collections": ["posts/posts.json"]
