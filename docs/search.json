@@ -2,18 +2,24 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "title": "About Me",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\nBackground\r\nMy name is Bradley O’Guinn and this is my website. I\r\nam a doctoral student in the School of Criminal Justice at the\r\nUniversity of Cincinnati. My research focuses on policing and the\r\ngeographic concentration of crime. I enjoy using R and\r\nArcGIS to analyze large amounts of data and identify\r\nhigh crime places. My recent work has been featured in Crime and\r\nDelinquency and Police Practice and Research.\r\nConnect:\r\n\r\n\r\n\r\n\r\nEducation\r\nUniversity of Cincinnati | Cincinnati, OH\r\nPh.D. in Criminal Justice | August 2019 - Present\r\nSouthern Illinois University Carbondale |\r\nCarbondale, IL\r\nM.A. in Criminology & Criminal Justice | August 2018 - May\r\n2019\r\nB.A. in Criminology & Criminal Justice | August 2016 - May\r\n2018\r\nExperience\r\nUniversity of Cincinnati | Cincinnati, OH\r\nDigital Futures Fellow | August 2022 - Present\r\nGraduate Research Assistant | August 2019 - July 2022\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-09-05T23:36:10-04:00"
+    },
+    {
+      "path": "articles.html",
+      "title": "Publications",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-09-05T18:35:32-04:00"
+      "last_modified": "2022-09-05T23:36:12-04:00"
     },
     {
       "path": "index.html",
-      "title": "Brad's Blog",
+      "title": "Recent Posts",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-09-05T18:35:34-04:00"
+      "last_modified": "2022-09-05T23:36:14-04:00"
     }
   ],
   "collections": ["posts/posts.json"]

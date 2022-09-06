@@ -1,19 +1,39 @@
 [
   {
+    "path": "posts/2022-09-05-police-training-and-accountability/",
+    "title": "Police training and accountability: A remedy or an impedient for reducing fatal police shootings",
+    "description": "The deaths of unarmed black citizens at the hands of police have led to dramatic calls for police reform...",
+    "author": [],
+    "date": "2022-09-05",
+    "categories": [
+      "Academic Article",
+      "Policing",
+      "Fatal Shootings"
+    ],
+    "contents": "\r\n\r\n Image Source: National\r\nPolice Accountability Project \r\nAbstract\r\nThe deaths of unarmed black citizens at the hands of police have led\r\nto dramatic calls for police reform. Some observers claim that officers\r\nare poorly trained and unaccountable for their actions. In this study, I\r\ntest whether measures of organizational training and accountability\r\nreduce the likelihood of unarmed fatal officer-involved shootings (OIS).\r\nThe results suggest external review of deadly force may decrease the\r\nlikelihood of fatal OIS of unarmed black citizens. Other training and\r\naccountability mechanisms are unrelated to, or increase the likelihood\r\nof, fatal shootings. More research is needed to determine the causal\r\nlinks between the training and accountability mechanisms outlined in\r\nthis study and fatal police shootings.\r\nCitation\r\nO’Guinn, B.J. (2022). Police training and accountability: A remedy or\r\nan impediment for reducing unarmed police shootings. Crime and\r\nDelinquency. (Online\r\nfirst)\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-09-05T23:36:35-04:00",
+    "input_file": "police-training-and-accountability.knit.md"
+  },
+  {
     "path": "posts/welcome/",
-    "title": "Welcome to Brad's Blog",
+    "title": "Welcome!",
     "description": "Welcome to our new blog, Brad's Blog. We hope you enjoy \nreading what we have to say!",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Bradley O'Guinn",
+        "url": {}
       }
     ],
     "date": "2022-09-05",
-    "categories": [],
-    "contents": "\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2022-09-05T17:50:58-04:00",
+    "categories": [
+      "Posts",
+      "portfolios",
+      "dygraphs"
+    ],
+    "contents": "\r\n\r\n\r\n\r\nThis is an example…\r\nThis is another example\r\n\r\n\r\n\r\n",
+    "preview": "posts/welcome/welcome_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2022-09-05T21:56:23-04:00",
     "input_file": {}
   }
 ]
