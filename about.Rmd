@@ -12,7 +12,7 @@ knitr::include_graphics("./images/headshot.jpg")
 
 # Background
 
-My name is **Bradley O'Guinn** and this is my website. I am a doctoral student in the School of Criminal Justice at the University of Cincinnati. My research focuses on policing and the geographic concentration of crime. I enjoy using **R** and **ArcGIS** to analyze large amounts of data and identify high crime places. My recent work has been featured in _Crime and Delinquency_ and _Police Practice and Research_. 
+My name is **Bradley O'Guinn**. I am a doctoral student in the School of Criminal Justice at the University of Cincinnati. My research focuses on policing and the geographic concentration of crime. I enjoy using **R** and **ArcGIS** to analyze large amounts of data and identify high crime places. My recent work has been featured in _Crime and Delinquency_ and _Police Practice and Research_. 
 
 Connect:
 <a href="mailto:bradoguinn@gmail.com" class="fa fa-envelope"></a>

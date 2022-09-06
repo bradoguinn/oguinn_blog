@@ -1,6 +1,9 @@
 ---
 title: "Publications"
-listing: posts
+listing: 
+  posts:
+    - 2022-09-06-policetrauma
+    - 2022-09-05-police-training-and-accountability
 ---
 
 ```{r setup, include=FALSE}

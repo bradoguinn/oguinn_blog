@@ -1,19 +1,35 @@
 [
   {
+    "path": "posts/2022-09-06-policetrauma/",
+    "title": "A national analysis of trauma care proximity and firearm assault survival among U.S. police",
+    "description": "Past research on factors influencing firearm assault (FA) mortality have not focused on police officers who, compared to other U.S. workers and the general public, experience especially high rates of firearm victimization...",
+    "author": [],
+    "date": "2022-09-06",
+    "categories": [
+      "Journal Article",
+      "Policing",
+      "Gun Violence"
+    ],
+    "contents": "\r\n\r\n\r\n\r\n Image Creator: Cavan Images. Credit: Getty Images/Cavan Images\r\nR. \r\nAbstract\r\nPast research on factors influencing firearm assault (FA) mortality\r\nhave not focused on police officers who, compared to other U.S. workers\r\nand the general public, experience especially high rates of firearm\r\nvictimization. This study focuses on this unique population of FA\r\nvictims and examines the relationship between travel time to the nearest\r\ntrauma care facility and the probability of survival among officers shot\r\non duty. Combining data on trauma care center location and 7 years of\r\ndata on U.S. police officers fatally or non-fatally assaulted with a\r\nfirearm, we use logistic regression to model the probability of FA\r\nfatality among police by proximity of the FA to the nearest trauma care\r\nfacility. We find that travel time to trauma care was not associated\r\nwith reduced FA mortality among police from 2014 to 2020. FA mortality\r\nwas significantly lower in 2020 than the six years prior.\r\nCitation\r\nSierra-Arévalo, M., Nix, J., & O’Guinn, B. (2022). A national\r\nanalysis of trauma care proximity and firearm assault survival among\r\nU.S. police. Police Practice and Research: An International\r\nJournal. (Online\r\nfirst)\r\n\r\n\r\n\r\n",
+    "preview": "posts/2022-09-06-policetrauma/images/ambulance.jpg",
+    "last_modified": "2022-09-06T00:22:35-04:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2022-09-05-police-training-and-accountability/",
     "title": "Police training and accountability: A remedy or an impedient for reducing fatal police shootings",
     "description": "The deaths of unarmed black citizens at the hands of police have led to dramatic calls for police reform...",
     "author": [],
     "date": "2022-09-05",
     "categories": [
-      "Academic Article",
+      "Journal Article",
       "Policing",
       "Fatal Shootings"
     ],
-    "contents": "\r\n\r\n Image Source: National\r\nPolice Accountability Project \r\nAbstract\r\nThe deaths of unarmed black citizens at the hands of police have led\r\nto dramatic calls for police reform. Some observers claim that officers\r\nare poorly trained and unaccountable for their actions. In this study, I\r\ntest whether measures of organizational training and accountability\r\nreduce the likelihood of unarmed fatal officer-involved shootings (OIS).\r\nThe results suggest external review of deadly force may decrease the\r\nlikelihood of fatal OIS of unarmed black citizens. Other training and\r\naccountability mechanisms are unrelated to, or increase the likelihood\r\nof, fatal shootings. More research is needed to determine the causal\r\nlinks between the training and accountability mechanisms outlined in\r\nthis study and fatal police shootings.\r\nCitation\r\nO’Guinn, B.J. (2022). Police training and accountability: A remedy or\r\nan impediment for reducing unarmed police shootings. Crime and\r\nDelinquency. (Online\r\nfirst)\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2022-09-05T23:36:35-04:00",
-    "input_file": "police-training-and-accountability.knit.md"
+    "contents": "\r\n\r\n\r\n\r\n Image Source: National\r\nPolice Accountability Project \r\nAbstract\r\nThe deaths of unarmed black citizens at the hands of police have led\r\nto dramatic calls for police reform. Some observers claim that officers\r\nare poorly trained and unaccountable for their actions. In this study, I\r\ntest whether measures of organizational training and accountability\r\nreduce the likelihood of unarmed fatal officer-involved shootings (OIS).\r\nThe results suggest external review of deadly force may decrease the\r\nlikelihood of fatal OIS of unarmed black citizens. Other training and\r\naccountability mechanisms are unrelated to, or increase the likelihood\r\nof, fatal shootings. More research is needed to determine the causal\r\nlinks between the training and accountability mechanisms outlined in\r\nthis study and fatal police shootings.\r\nCitation\r\nO’Guinn, B.J. (2022). Police training and accountability: A remedy or\r\nan impediment for reducing unarmed police shootings. Crime and\r\nDelinquency. (Online\r\nfirst)\r\n\r\n\r\n\r\n",
+    "preview": "posts/2022-09-05-police-training-and-accountability/images/police-bw.jpg",
+    "last_modified": "2022-09-06T00:18:36-04:00",
+    "input_file": {}
   },
   {
     "path": "posts/welcome/",
